@@ -189,7 +189,7 @@ iniads3.pro
 suaratubuh.pro
 waktubicara.pro
 bisikanmanja.pro
-monokrom.pro    
+monokrom.pro
 adsklik14.pro
 adsklik15.pro
 adsklik16.pro
@@ -197,7 +197,7 @@ adsklik17.pro
 bocoranads508.pro
 rtpads5.pro
 rtpads6.pro
-rtpads7.pro 
+rtpads7.pro
 luckyspinads.online
 putaranterbaik.pro
 putaranterbaru.pro
