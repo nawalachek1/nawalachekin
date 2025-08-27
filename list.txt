@@ -11,6 +11,7 @@ maindiceria.pro
 ertepeslotdomino.pro
 rtp2sarangdomino.pro 
 rtp3sarangdomino.pro
+mainmedali.pro
 polasrgdomino.pro
 ampsbobet-euj.pages.dev
 amp2sga.pro
