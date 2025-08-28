@@ -198,6 +198,9 @@ waktubicara.pro
 bisikanmanja.pro
 monokrom.pro
 adsklik15.pro
+adsklik18.pro
+adsklik19.pro
+adsklik20.pro
 bocoranads508.pro
 rtpads5.pro
 rtpads6.pro
