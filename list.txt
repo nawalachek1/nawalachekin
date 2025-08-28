@@ -310,6 +310,9 @@ pahamhijau.pro
 1rtp-paham.pro
 2rtp-paham.pro
 5rtp-paham.pro
+sgamerah.pro
+pahamputih.pro
+pahampaten.pro
 teguh777.pro
 teguhklik.pro
 2teguh777alt.pro
