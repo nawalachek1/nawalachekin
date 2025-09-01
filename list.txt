@@ -94,17 +94,14 @@ rtp1tekun777.pro
 polatekun777.pro 
 rtp2tekun777.pro 
 infotekun777.pro
-srghp5.pro
 wedemax.pro
 brandsrg.pro
 lovesrg.pro
-srghidup.pro
 vitallsrg.pro
 bumisrg.pro
 srg2.info
 srg3.info
 srg4.info
-srg6.info
 srg7.info  
 rtp1sarang.pro
 rtp2sarang.pro
@@ -289,7 +286,6 @@ rtphiburan1.pro
 rtphiburan2.pro
 sgawhite.pro
 sgaputih.pro
-sgahitam.pro
 sgaungu.pro
 sgahijau.pro
 rtp11sga508.pro
