@@ -179,7 +179,8 @@ batangmanis.pro
 rajaniat.pro
 niatklik9.pro
 niatklik11.pro
-niatklik14.pro  
+niatklik14.pro
+niatklik15.pro
 rtpgacorniat.pro
 niatrtp.pro
 polaniat.pro
