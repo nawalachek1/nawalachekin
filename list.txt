@@ -212,8 +212,10 @@ liarmanja.pro
 desahsenja.pro
 getaranenak.pro
 mangu.pro
+sgaklik11.pro
 sgaklik7.pro
 sgaklik9.pro
+sgaklik12.pro
 polainfosga.pro
 sga77rtp.pro
 rtpmaxsga77.pro
