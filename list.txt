@@ -9,6 +9,7 @@ maindiceria.pro
 43sarangdomino.pro
 44sarangdomino.pro
 ertepeslotdomino.pro
+1ampartis.pages.dev
 mainmedali.pro
 3medali303.com
 rtp2sarangdomino.pro 
