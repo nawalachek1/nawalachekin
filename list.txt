@@ -410,3 +410,5 @@ harusinhere.pro
 53artis777.pro
 54artis777.pro
 asia.lumiup.pro
+rtp1.polaartis.pro
+rtp2.polaartis.pro
