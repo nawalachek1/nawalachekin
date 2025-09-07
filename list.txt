@@ -11,7 +11,6 @@ sawitasia.pro
 klik2.upsawit.pro
 upsawit.pro
 topsawit.pro
-sawitnaik.pro
 daunsawit.pro
 link1.daunsawit.pro
 srgdomino.pages.dev
