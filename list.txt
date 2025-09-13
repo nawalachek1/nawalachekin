@@ -206,7 +206,6 @@ malapetaka.pro
 bersamamu.pro
 tabolabale.pro
 satubulan.pro
-adsklik15.pro
 adsklik18.pro
 adsklik19.pro
 adsklik20.pro
