@@ -71,7 +71,6 @@ ampnyaabdi.pro
 abdikapten.pro
 abdibandar.pro
 27abditogel.pro
-28abditogel.pro 
 rtpabdicuan.pro
 cobartpabdi.pro
 rtpabdi5.pro
