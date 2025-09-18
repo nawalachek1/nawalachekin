@@ -242,7 +242,6 @@ sgaklik13.pro
 sgaklik12.pro
 seandainya.pro
 janjisetia.pro
-bintangmalam.pro
 polainfosga.pro
 sga77rtp.pro
 rtpmaxsga77.pro
