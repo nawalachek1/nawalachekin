@@ -334,6 +334,8 @@ pahamhijau.pro
 sgamerah.pro
 pahamputih.pro
 pahampaten.pro
+6rtp-paham.pro
+7rtp-paham.pro
 6teguh777.com
 polartpharus1.pro
 polartpharus2.pro
