@@ -172,6 +172,7 @@ rtp5srg188.pro
 srg188rtp.pro
 3mobilemb88.pro
 4matabola188.com
+1ampmb188.pro
 5matabola188.com
 4matabola188.pro
 5matabola188.pro
