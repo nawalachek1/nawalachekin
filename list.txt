@@ -42,7 +42,8 @@ maindiceria.pro
 ertepeslotdomino.pro
 1ampartis.pages.dev
 mainmedali.pro
-rtp2sarangdomino.pro 
+rtp2sarangdomino.pro
+amp3sga.pro
 2amp-artis.com
 rtp3sarangdomino.pro
 mainmedali.pro
