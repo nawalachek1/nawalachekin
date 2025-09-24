@@ -204,6 +204,12 @@ niatklik9.pro
 niatklik11.pro
 niatklik14.pro
 niatklik15.pro
+autoniat.pro
+gengniat.pro
+dunianiat.pro
+mainperasaan.pro
+ruangintim.pro
+hpniatbaru.pro
 rtpgacorniat.pro
 niatrtp.pro
 polaniat.pro
