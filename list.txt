@@ -374,8 +374,6 @@ sgawhite.pro
 situstekun.pro
 skrgyapaham.pro
 srg11.info
-srg16.info
-srg17.info
 srg18.info
 srg188rtp.pro
 srgdomino.pages.dev
