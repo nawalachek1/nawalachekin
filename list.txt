@@ -173,7 +173,6 @@ ceriamain.pro
 ceriamobile.pro
 chapelhillatpaoli.com
 chtpodcast88.pro
-clamreport.com
 cobaintropeksi.pro
 cobalakukan.pro
 cobartpabdi.pro
